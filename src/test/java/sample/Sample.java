@@ -9,6 +9,8 @@ public class Sample {
 	{
 		System.out.println("Hello this is my second commit");
 		System.out.println("hello");
+		System.out.println("hi this is branch 1");
+		
 	}
 
 }

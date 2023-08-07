@@ -6,7 +6,8 @@ public class Sample {
 @Test
 public void sample()
 {
-	System.out.println("this is my second commit");
+	System.out.println("Hello this is my second commit");
+	System.out.println("hello from AT");
 }
 	
 	
